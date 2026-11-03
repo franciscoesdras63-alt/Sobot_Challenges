@@ -1,7 +1,7 @@
-Institution: Solis Tecnologia
+Institution: "SENAI"
 
-Participants:
--Rodrigo Lima de Carvalho
+Participants:Francisco Esdras
 
-Location: São Paulo, SP
-Date: 12/10/2024
+
+Location: "Imperatriz, Maranhao
+Date: "03/11/2026
